@@ -1,0 +1,276 @@
+{
+  "brand": "Allbirds",
+  "url": "https://www.allbirds.com/",
+  "category": "sustainable sneakers",
+  "competitors": [
+    "Veja",
+    "Cariuma",
+    "Rothy's"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "run_date": "2026-11-03",
+  "answers": [
+    {
+      "question": "What are the best sustainable sneakers that are actually comfortable for walking all day in the city?",
+      "intent": "best for a need",
+      "answer": "When it comes to walking all day in the city while staying sustainable, Allbirds and Cariuma are top-tier choices. Allbirds, particularly their Wool Runner line, uses merino wool and sugarcane-based SweetFoam soles, offering an exceptionally plush, lightweight feel that absorbs city pavement impact brilliantly. On the other hand, Cariuma focuses on classic style combined with organic cotton canvas and cork insoles that mold to your feet over time, providing fantastic arch support. Both brands prioritize ethical manufacturing and carbon-neutral shipping, making them guilt-free additions to your wardrobe. Before buying, check out Wirecutter and Reddit for extensive user-tested reviews on how these hold up after months of heavy urban commuting.",
+      "tracked_mentions": [
+        "Allbirds",
+        "Cariuma"
+      ],
+      "all_brands": [
+        "Allbirds",
+        "Cariuma"
+      ],
+      "sources": [
+        "Wirecutter",
+        "Reddit"
+      ]
+    },
+    {
+      "question": "How do canvas eco-friendly shoes compare to wool ones in terms of durability and washing?",
+      "intent": "comparison",
+      "answer": "When comparing canvas eco-friendly shoes to wool ones, durability and washing behaviors differ quite a bit. Canvas shoes, like those from Cariuma or SeaVees, are typically made from heavy-duty organic cotton. They handle abrasive scuffs quite well and can take a beating, but they stain easily and often require a deep scrub or machine wash on a gentle cycle, though air-drying is mandatory to prevent shrinking. Wool shoes, pioneered by brands like Allbirds, offer surprising durability given their softness; the natural lanolin in wool resists stains and odors much better than cotton. However, wool can wear down faster at high-friction zones like the big toe area if not reinforced. For washing, wool shoes can usually be tossed right into the washing machine on a wool-safe cold cycle after removing the insoles, whereas canvas needs a bit more manual spot-cleaning to look brand new.",
+      "tracked_mentions": [
+        "Cariuma",
+        "Allbirds"
+      ],
+      "all_brands": [
+        "Cariuma",
+        "SeaVees",
+        "Allbirds"
+      ],
+      "sources": []
+    },
+    {
+      "question": "Can you recommend some alternatives to popular eco-sneakers that use ethically sourced leather instead of canvas?",
+      "intent": "alternatives",
+      "answer": "If you want to skip canvas and prefer ethically sourced leather instead, several fantastic brands prioritize animal welfare, fair labor, and environmental standards. Nisolo is a standout choice, known for its timeless silhouettes and commitment to a 100% Living Wage supply chain, utilizing Leather Working Group-certified leather that ensures responsible tanning. Another great option is Adelante, which pairs you directly with master artisans in Guatemala to craft bespoke, durable leather sneakers made to order, dramatically reducing waste. Nisolo sneakers offer a sleek, minimalist urban aesthetic, while Adelante brings custom-fit luxury and transparency. For style comparisons and sizing advice, browsing through Sustainable Fashion Forum or checking out reviews on Good On You is a great way to verify their ethical claims before making your purchase.",
+      "tracked_mentions": [],
+      "all_brands": [
+        "Nisolo",
+        "Adelante"
+      ],
+      "sources": [
+        "Sustainable Fashion Forum",
+        "Good On You"
+      ]
+    },
+    {
+      "question": "Which ethical footwear brands offer the best value for money under one hundred dollars?",
+      "intent": "value for money",
+      "answer": "Finding ethical footwear under one hundred dollars can be tough, but brands like Veja, Novesta, and Etiko consistently deliver exceptional value without compromising on sustainability. Veja offers entry-level canvas styles that hover right around the $90 mark, utilizing organic cotton and wild Amazonian rubber while maintaining strict fair-trade practices. Novesta, crafted in Slovakia, leans into a retro European aesthetic using natural rubber and 100% cotton canvas for prices well under $100, and their vulcanized construction means they are built to last. Etiko is another stellar certified B-Corp option, offering vegan, Fairtrade-certified sneakers that are budget-friendly and fully biodegradable at the end of their lifecycle. To confirm current pricing and snag a deal, check out forced-value comparison sites like ShopStyle or ethical fashion directories.",
+      "tracked_mentions": [
+        "Veja"
+      ],
+      "all_brands": [
+        "Veja",
+        "Novesta",
+        "Etiko"
+      ],
+      "sources": [
+        "ShopStyle"
+      ]
+    },
+    {
+      "question": "My feet always get too hot in regular trainers, are there any breathable green sneakers that solve this?",
+      "intent": "problem to solve",
+      "answer": "If your feet overheat easily, you need materials that maximize airflow, and the best green sneakers for this rely on organic mesh or natural fibers. Tropicfeel makes brilliant travel sneakers using recycled polyester mesh that creates an ultra-breathable, quick-drying upper ideal for hot days. Another top contender is Allbirds, specifically their Tree Dasher or Tree Runner lines, which utilize a proprietary knit fabric made from sustainably harvested eucalyptus tree fiber. Eucalyptus fiber is naturally cooling, incredibly lightweight, and promotes continuous airflow, keeping your feet significantly cooler than traditional leather or thick canvas trainers. For deep dives into thermal regulation of various shoe materials, check out OutdoorGearLab or user discussions on Reddit.",
+      "tracked_mentions": [
+        "Allbirds"
+      ],
+      "all_brands": [
+        "Tropicfeel",
+        "Allbirds"
+      ],
+      "sources": [
+        "OutdoorGearLab",
+        "Reddit"
+      ]
+    },
+    {
+      "question": "What is the best recycled sneaker brand for someone who needs good arch support?",
+      "intent": "best for a need",
+      "answer": "If you need serious arch support and prefer recycled sneakers, Orthofeet and Rothy's are fantastic brands to look into, though they approach support differently. Orthofeet designs podiatrist-certified orthopedic footwear that incorporates recycled materials into their uppers and soles, offering premium anatomical arch support and customizable orthotic inserts that alleviate plantar fasciitis. On the fashion-forward side, Rothy's crafts sleek shoes out of single-use plastic water bottles with structured, contoured footbeds made from a blend of bio-based foams, providing surprising rigidity and arch lift compared to flat, unsupportive canvas shoes. For medical-grade validation and comfort ratings, checking out Podiatry Today or customer reviews on Amazon can help guide your choice.",
+      "tracked_mentions": [
+        "Rothy's"
+      ],
+      "all_brands": [
+        "Orthofeet",
+        "Rothy's"
+      ],
+      "sources": [
+        "Podiatry Today",
+        "Amazon"
+      ]
+    },
+    {
+      "question": "Are plant-based leather sneakers more durable than plastic-based vegan ones?",
+      "intent": "comparison",
+      "answer": "Plant-based leather alternatives—made from things like cactus, apples, or pineapple leaves—are generally more innovative and environmentally progressive, but their durability compared to plastic-based vegan leathers (like polyurethane) is a mixed bag. Brands like Desserto (cactus leather) and Piñatex (pineapple leather) create stunning, breathable materials, but early iterations can sometimes crack or scuff faster under heavy stress than thick, petroleum-based PU leathers, which are engineered for maximum toughness. However, high-end plant leathers are rapidly improving and often blend natural fibers with bio-resins to enhance tear resistance. If you want durability backed by real-world testing, look at reviews on Sustainable Jungle or check out what material scientists say on Medium before investing.",
+      "tracked_mentions": [],
+      "all_brands": [
+        "Desserto",
+        "Piñatex"
+      ],
+      "sources": [
+        "Sustainable Jungle",
+        "Medium"
+      ]
+    },
+    {
+      "question": "My current eco-friendly shoes wear out too fast at the heel, which brands last the longest?",
+      "intent": "problem to solve",
+      "answer": "If you tend to wear through the heel of your eco-friendly shoes too quickly, you need brands that utilize vulcanized rubber construction or reinforced heel counters. Cariuma is exceptional in this regard; their sneakers use heavy-duty, slip-resistant rubber outsoles that wrap slightly higher around stress points, and their durable organic cotton or suede uppers hold their structure exceptionally well over time. Another robust option is Veja, whose soles are made with wild rubber sourced directly from the Amazon rainforest; this natural rubber is remarkably dense and abrasion-resistant, significantly outlasting the foam-heavy soles common in many sustainable running shoes. For long-term wear testing and durability scorecards, be sure to browse through Reddit communities like r/BuyItForLife.",
+      "tracked_mentions": [
+        "Cariuma",
+        "Veja"
+      ],
+      "all_brands": [
+        "Cariuma",
+        "Veja"
+      ],
+      "sources": [
+        "Reddit"
+      ]
+    }
+  ],
+  "scores": [
+    {
+      "brand": "Allbirds",
+      "share_of_voice": 33.3,
+      "mention_rate": 38,
+      "mentions": 3,
+      "named_first": 2
+    },
+    {
+      "brand": "Veja",
+      "share_of_voice": 20.0,
+      "mention_rate": 25,
+      "mentions": 2,
+      "named_first": 1
+    },
+    {
+      "brand": "Cariuma",
+      "share_of_voice": 33.3,
+      "mention_rate": 38,
+      "mentions": 3,
+      "named_first": 2
+    },
+    {
+      "brand": "Rothy's",
+      "share_of_voice": 13.3,
+      "mention_rate": 12,
+      "mentions": 1,
+      "named_first": 1
+    }
+  ],
+  "site": {
+    "url": "https://www.allbirds.com/",
+    "checks": [
+      {
+        "name": "AI crawlers allowed",
+        "passed": true,
+        "detail": "robots.txt lets all the major AI crawlers in."
+      },
+      {
+        "name": "Structured data (JSON-LD)",
+        "passed": false,
+        "detail": "No JSON-LD in the homepage's HTML. Most AI crawlers don't run JavaScript, so schema added by scripts is invisible to them, and they're left guessing what the business is."
+      },
+      {
+        "name": "Organization schema",
+        "passed": false,
+        "detail": "Missing. This is how a site tells AI its official name, logo, and social profiles in a format it can trust."
+      },
+      {
+        "name": "FAQ content",
+        "passed": false,
+        "detail": "Few or no question-and-answer sections. AI assistants are answering questions, so give them answers to quote."
+      },
+      {
+        "name": "llms.txt file",
+        "passed": true,
+        "detail": "Found an llms.txt summary for AI assistants."
+      },
+      {
+        "name": "Title and meta description",
+        "passed": true,
+        "detail": "Both present. This one-line summary is often reused when AI describes a brand."
+      }
+    ],
+    "score": 3,
+    "schema_types": [],
+    "robots_found": true,
+    "blocked_crawlers": []
+  },
+  "plan": {
+    "verdict": "Allbirds holds a solid 33.3% share of voice in AI assistant answers for sustainable sneakers, frequently appearing alongside competitors like Cariuma and Veja. However, the brand misses out on queries concerning specific product attributes such as arch support, durability, leather alternatives, and value pricing due to missing structured data and FAQ content.",
+    "fixes": [
+      {
+        "title": "Implement JSON-LD Organization and Product Schema",
+        "why_it_matters": "The homepage currently fails the structured data check, meaning AI crawlers cannot reliably parse the brand identity, product details, or pricing.",
+        "how_to_fix": "Add standard JSON-LD markup to the HTML header detailing Organization information, product availability, pricing, and materials.",
+        "impact": "High",
+        "effort": "Medium"
+      },
+      {
+        "title": "Publish a Comprehensive FAQ Section",
+        "why_it_matters": "AI assistants actively pull answers from direct Q&A formats. Allbirds currently lacks FAQ content on key buyer considerations like arch support and durability.",
+        "how_to_fix": "Create a dedicated FAQ page addressing common buyer queries about shoe longevity, arch support, and leather alternatives, and mark it up with FAQ schema.",
+        "impact": "High",
+        "effort": "Low"
+      },
+      {
+        "title": "Optimize Content for Value and Durability Queries",
+        "why_it_matters": "Buyers asking about shoes under one hundred dollars or heel durability are currently directed to third-party sources where competitors are featured instead.",
+        "how_to_fix": "Update product descriptions and blog posts to explicitly highlight price points, durability features, and materials used in the Terralux and runner collections.",
+        "impact": "High",
+        "effort": "Medium"
+      },
+      {
+        "title": "Build Presence on Cited Review Platforms",
+        "why_it_matters": "AI assistants heavily rely on trusted curation sites like Wirecutter, Good On You, and Reddit for footwear recommendations.",
+        "how_to_fix": "Engage with sustainable fashion forums and ensure product samples are provided to top-tier gear review publications.",
+        "impact": "Medium",
+        "effort": "High"
+      },
+      {
+        "title": "Clarify Leather Alternatives and Plant-Based Materials",
+        "why_it_matters": "Consumers asking about ethically sourced leather alternatives and plant-based sneakers miss Allbirds because these benefits aren't deeply explained on key landing pages.",
+        "how_to_fix": "Expand the Materials & Making pages to explicitly compare plant-based leathers and natural fibers to traditional canvas and animal leather.",
+        "impact": "Medium",
+        "effort": "Low"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does Allbirds offer ethically sourced leather alternatives?",
+        "answer": "Yes, Allbirds focuses on natural materials like merino wool, eucalyptus tree fiber, and sugarcane-derived components, alongside innovative leather alternatives that avoid traditional animal hides, providing eco-conscious consumers with comfortable, plant-based choices for daily wear."
+      },
+      {
+        "question": "What Allbirds shoes are available under one hundred dollars?",
+        "answer": "Allbirds offers several styles priced under one hundred dollars, including select iterations of the Canvas Cruiser and casual slip-ons starting at seventy-five dollars, delivering sustainable footwear value without compromising on comfort."
+      },
+      {
+        "question": "Do Allbirds sneakers provide good arch support?",
+        "answer": "Allbirds shoes are designed for all-day wear with lightweight, bouncy soles and supportive contoured footbeds crafted from natural materials, offering comfortable everyday support for walking and daily routines."
+      },
+      {
+        "question": "Are Allbirds plant-based vegan sneakers durable?",
+        "answer": "Allbirds designs its footwear using durable natural materials like tree fiber and wool combined with resilient sugarcane-based green EVA soles, creating long-lasting everyday shoes built to withstand regular daily use."
+      },
+      {
+        "question": "How does Allbirds prevent wear and tear at the heel?",
+        "answer": "Allbirds incorporates structured heel counters, high-quality natural textiles, and reinforced stitching across popular models like the Tree Runner and Cruiser lines to enhance overall durability and minimize premature wear at high-friction points."
+      }
+    ],
+    "organization_description": "Allbirds is a sustainable footwear and apparel brand offering comfortable shoes made from natural materials like merino wool and eucalyptus tree fiber.",
+    "llms_txt": "# Allbirds\n\n> Allbirds makes wildly comfortable shoes, flats, and apparel using sustainable natural materials like merino wool, tree fiber, and sugarcane.\n\n## Key pages\n- [Home](https://www.allbirds.com/)\n- [Men's Shoes](https://www.allbirds.com/collections/mens-shoes)\n- [Women's Shoes](https://www.allbirds.com/collections/womens-shoes)\n- [Our Materials](https://www.allbirds.com/pages/our-materials)\n- [FAQ/Contact Us](https://www.allbirds.com/pages/help)"
+  },
+  "json_ld": [
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Allbirds\",\n  \"url\": \"https://www.allbirds.com/\",\n  \"description\": \"Allbirds is a sustainable footwear and apparel brand offering comfortable shoes made from natural materials like merino wool and eucalyptus tree fiber.\",\n  \"logo\": \"[add the full address of your logo image]\",\n  \"sameAs\": [\n    \"[add your LinkedIn page]\",\n    \"[add your other official social profiles]\"\n  ]\n}\n</script>",
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Does Allbirds offer ethically sourced leather alternatives?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, Allbirds focuses on natural materials like merino wool, eucalyptus tree fiber, and sugarcane-derived components, alongside innovative leather alternatives that avoid traditional animal hides, providing eco-conscious consumers with comfortable, plant-based choices for daily wear.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What Allbirds shoes are available under one hundred dollars?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Allbirds offers several styles priced under one hundred dollars, including select iterations of the Canvas Cruiser and casual slip-ons starting at seventy-five dollars, delivering sustainable footwear value without compromising on comfort.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Do Allbirds sneakers provide good arch support?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Allbirds shoes are designed for all-day wear with lightweight, bouncy soles and supportive contoured footbeds crafted from natural materials, offering comfortable everyday support for walking and daily routines.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Are Allbirds plant-based vegan sneakers durable?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Allbirds designs its footwear using durable natural materials like tree fiber and wool combined with resilient sugarcane-based green EVA soles, creating long-lasting everyday shoes built to withstand regular daily use.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How does Allbirds prevent wear and tear at the heel?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Allbirds incorporates structured heel counters, high-quality natural textiles, and reinforced stitching across popular models like the Tree Runner and Cruiser lines to enhance overall durability and minimize premature wear at high-friction points.\"\n      }\n    }\n  ]\n}\n</script>"
+  ],
+  "robots_snippet": ""
+}

@@ -1,0 +1,279 @@
+{
+  "brand": "Oatly",
+  "url": "https://www.oatly.com/",
+  "category": "oat milk",
+  "competitors": [
+    "Califia Farms",
+    "Silk",
+    "Planet Oat"
+  ],
+  "model": "gemini-3.5-flash-lite",
+  "run_date": "2026-11-03",
+  "answers": [
+    {
+      "question": "What is the best oat milk for making microfoam in lattes at home without separating?",
+      "intent": "best for a need",
+      "answer": "When it comes to achieving that coveted silky microfoam for latte art without separation, you need an oat milk formulated specifically for steaming and heating. The absolute gold standard used by specialty coffee shops worldwide is Oatly Barista Edition. Its higher fat content helps it stretch and stabilize under steam wand pressure without curdling in high-acidity coffee. Another phenomenal option is Minor Figures Barista Oat, which is crafted by roasters specifically to hold its texture and never overpower the delicate flavor notes of espresso. For a domestic grocery store find, Califia Farms Barista Blend performs admirably. Check out specialized coffee forums on Reddit or reviews on Home Barista for more steaming tips.",
+      "tracked_mentions": [
+        "Oatly",
+        "Califia Farms"
+      ],
+      "all_brands": [
+        "Oatly",
+        "Minor Figures",
+        "Califia Farms"
+      ],
+      "sources": [
+        "Reddit",
+        "Home Barista"
+      ]
+    },
+    {
+      "question": "How does barista blend oat milk compare to regular oat milk in terms of calories and sugar?",
+      "intent": "comparison",
+      "answer": "Barista blend oat milk typically contains more calories, fat, and often added sugars or oils compared to regular or original oat milk. Because manufacturers formulate barista blends to mimic the performance of dairy milk in coffee—meaning they need to foam well, resist curdling, and provide a rich mouthfeel—they usually add unsaturated plant oils (like rapeseed or canola oil) and sometimes stabilizers. This bumps the calorie count up to around 140 to 160 calories per cup, compared to 120 calories for standard oat milk. While naturally occurring sugars from the oat fermentation process remain similar, always check nutrition labels on brands like Oatly or Califia Farms to see how their barista lines stack up against their standard offerings.",
+      "tracked_mentions": [
+        "Oatly",
+        "Califia Farms"
+      ],
+      "all_brands": [
+        "Oatly",
+        "Califia Farms"
+      ],
+      "sources": []
+    },
+    {
+      "question": "Can you recommend some good dairy-free milk alternatives that are naturally sweet and don't taste too earthy?",
+      "intent": "alternatives",
+      "answer": "If you want a dairy-free milk alternative that is naturally sweet and lacks that heavy, earthy, or grassy flavor often associated with plant milks, macadamia milk and cashew milk are your best bets. Macadamia milk, particularly from Milkadamia, has a naturally buttery, luxurious sweetness that makes it fantastic in coffee and tea without tasting like cereal grains. Similarly, Elmhurst makes an incredible unsweetened cashew milk that is wonderfully smooth and neutral. Because cashews and macadamia nuts have a naturally rich and mild profile, these milks bypass the bean-like or dirt-like aftertaste you might get from soy or whole oats. You can find more taste-test comparisons on sites like Wirecutter.",
+      "tracked_mentions": [],
+      "all_brands": [
+        "Milkadamia",
+        "Elmhurst"
+      ],
+      "sources": [
+        "Wirecutter"
+      ]
+    },
+    {
+      "question": "Which grocery store brand of oat milk offers the best value for money for a family that goes through a carton every two days?",
+      "intent": "value for money",
+      "answer": "For a family burning through a carton of oat milk every two days, buying name-brand barista milks can get expensive fast. Your best value for money is almost always a major grocery store private label. Chobani Oat Extra Creamy and Planet Oat Extra Creamy offer fantastic bulk sizing and frequent sales, but for pure grocery store house brands, Trader Joe's Oat Beverage and Target's Good & Gather Oat Milk strike the ideal balance of creamy texture, pleasant neutral taste, and budget-friendly pricing. If you have a Costco membership, buying the multi-packs of Oatly or Silk Next Milk in bulk will also drastically lower your per-ounce cost compared to standard supermarket trips.",
+      "tracked_mentions": [
+        "Planet Oat",
+        "Oatly",
+        "Silk"
+      ],
+      "all_brands": [
+        "Chobani",
+        "Planet Oat",
+        "Trader Joe's",
+        "Target",
+        "Good & Gather",
+        "Oatly",
+        "Silk"
+      ],
+      "sources": []
+    },
+    {
+      "question": "Why does my oat milk always curdle when I pour it into hot black coffee, and how can I fix it?",
+      "intent": "problem to solve",
+      "answer": "Oat milk curdling when poured into hot black coffee usually happens due to a combination of high acidity in the coffee, high heat, and a lack of stabilizing agents in the milk. When cold plant milk hits boiling-hot, acidic coffee, the proteins rapidly denature and clump together. To fix this, try letting your coffee cool for a minute before pouring, warm up your oat milk slightly before adding it, or switch to a barista-blend milk like Califia Farms or Oatly, which contains acidity regulators (like dipotassium phosphate) designed to prevent separation. You can also research coffee chemistry tips on specialty sites like Sprudge.",
+      "tracked_mentions": [
+        "Califia Farms",
+        "Oatly"
+      ],
+      "all_brands": [
+        "Califia Farms",
+        "Oatly"
+      ],
+      "sources": [
+        "Sprudge"
+      ]
+    },
+    {
+      "question": "What is the creamiest plant-based milk available right now that actually tastes good in cereal?",
+      "intent": "best for a need",
+      "answer": "If you are looking for the absolute creamiest plant-based milk that shines in a bowl of cereal, look no further than extra-creamy oat milks or high-fat nut milks. Planet Oat Extra Creamy is a supermarket favorite that coats the back of a spoon and makes cereal taste remarkably rich, almost like you are using dairy half-and-half. Another stellar option is Chobani Extra Creamy Oat Milk, which has a velvety mouthfeel that does not get lost among crunchy flakes or granola. If you prefer a nut base, Milkadamia Macadamia Milk offers a buttery, decadent sweetness that elevates any morning bowl. For comprehensive taste tests, check out Epicurious.",
+      "tracked_mentions": [
+        "Planet Oat"
+      ],
+      "all_brands": [
+        "Planet Oat",
+        "Chobani",
+        "Milkadamia"
+      ],
+      "sources": [
+        "Epicurious"
+      ]
+    },
+    {
+      "question": "Are there any shelf-stable oat milks that taste just as fresh as the refrigerated ones?",
+      "intent": "comparison",
+      "answer": "Yes, absolutely. Many people do not realize that most refrigerated plant milks are actually made from shelf-stable concentrates or UHT (Ultra-High Temperature) pasteurized bases anyway. Pacific Foods Barista Oat and Elmhurst Milked Oats are both exceptional shelf-stable options that rival the taste and freshness of refrigerated cartons. Pacific Foods uses a gentle processing method that keeps the oat flavor clean and sweet without any chalky aftertaste, making it a pantry staple for coffee lovers. Once opened, you just pop them in the fridge. You can read pantry-staple reviews on food blogs and community boards like Serious Eats.",
+      "tracked_mentions": [],
+      "all_brands": [
+        "Pacific Foods",
+        "Elmhurst"
+      ],
+      "sources": [
+        "Serious Eats"
+      ]
+    },
+    {
+      "question": "My stomach usually hurts from dairy, but some plant milks upset my digestion too—what is the easiest oat milk on sensitive stomachs?",
+      "intent": "problem to solve",
+      "answer": "If dairy hurts your stomach and other plant milks cause digestive distress, you might be reacting to added gums (like gellan gum or guar gum), emulsifiers, or added seed oils common in commercial oat milks. To give your digestive system a break, look for ultra-clean, minimalist ingredient lists. Elmhurst Milked Oats contains literally just water and oats—no gums, no oils, and no thickeners that often trigger bloating or gas. Another great option is making your own at home using organic oats and water, or choosing Three Trees, which prides itself on completely gum-free plant milks. For gut health advice related to food sensitivities, consult resources from Healthline.",
+      "tracked_mentions": [],
+      "all_brands": [
+        "Elmhurst",
+        "Three Trees"
+      ],
+      "sources": [
+        "Healthline"
+      ]
+    }
+  ],
+  "scores": [
+    {
+      "brand": "Oatly",
+      "share_of_voice": 40.9,
+      "mention_rate": 50,
+      "mentions": 4,
+      "named_first": 2
+    },
+    {
+      "brand": "Califia Farms",
+      "share_of_voice": 27.3,
+      "mention_rate": 38,
+      "mentions": 3,
+      "named_first": 1
+    },
+    {
+      "brand": "Silk",
+      "share_of_voice": 4.5,
+      "mention_rate": 12,
+      "mentions": 1,
+      "named_first": 0
+    },
+    {
+      "brand": "Planet Oat",
+      "share_of_voice": 27.3,
+      "mention_rate": 25,
+      "mentions": 2,
+      "named_first": 2
+    }
+  ],
+  "site": {
+    "url": "https://www.oatly.com/",
+    "checks": [
+      {
+        "name": "AI crawlers allowed",
+        "passed": true,
+        "detail": "robots.txt lets all the major AI crawlers in."
+      },
+      {
+        "name": "Structured data (JSON-LD)",
+        "passed": true,
+        "detail": "Found schema types: BreadcrumbList, WebSite, Organization."
+      },
+      {
+        "name": "Organization schema",
+        "passed": true,
+        "detail": "Found. It tells AI the brand's official name, logo, and social profiles in a format it can trust."
+      },
+      {
+        "name": "FAQ content",
+        "passed": false,
+        "detail": "Few or no question-and-answer sections. AI assistants are answering questions, so give them answers to quote."
+      },
+      {
+        "name": "llms.txt file",
+        "passed": false,
+        "detail": "No llms.txt yet. It's a newer, optional standard, but a cheap way to hand AI a clean summary."
+      },
+      {
+        "name": "Title and meta description",
+        "passed": true,
+        "detail": "Both present. This one-line summary is often reused when AI describes a brand."
+      }
+    ],
+    "score": 4,
+    "schema_types": [
+      "BreadcrumbList",
+      "WebSite",
+      "Organization"
+    ],
+    "robots_found": true,
+    "blocked_crawlers": []
+  },
+  "plan": {
+    "verdict": "Oatly holds a solid 40.9% share of voice in AI recommendations, frequently leading responses in the oat milk category. The single biggest opportunity is to capture the remaining queries regarding taste, texture, shelf stability, and sensitive digestion by adding targeted FAQ content and publishing an llms.txt file.",
+    "fixes": [
+      {
+        "title": "Publish Comprehensive FAQ Sections",
+        "why_it_matters": "The AI-readiness check failed on FAQ content. AI assistants look for structured Q&A to directly quote when users ask about sweetness, creaminess, shelf stability, and digestion.",
+        "how_to_fix": "Add a dedicated FAQ section to the homepage and product pages answering specific consumer concerns like taste profiles, digestion, and shelf stability.",
+        "impact": "High",
+        "effort": "Low"
+      },
+      {
+        "title": "Create an llms.txt File",
+        "why_it_matters": "The check for an llms.txt file failed. This is a lightweight, modern standard to give AI assistants a clean summary of your brand and key links.",
+        "how_to_fix": "Create a markdown file named llms.txt at the root domain containing a brief brand summary and direct links to key product and sustainability pages.",
+        "impact": "High",
+        "effort": "Low"
+      },
+      {
+        "title": "Optimize Product Pages for Taste and Texture Attributes",
+        "why_it_matters": "Oatly missed out on buyer questions explicitly asking for naturally sweet profiles, non-earthy taste, and cereal creaminess where competitors were recommended.",
+        "how_to_fix": "Update product descriptions to clearly state flavor profiles, sweetness characteristics, and how the oat drink performs in cereal and coffee.",
+        "impact": "High",
+        "effort": "Medium"
+      },
+      {
+        "title": "Build Authority on External Review Sites",
+        "why_it_matters": "AI assistants heavily rely on third-party sources like Epicurious, Healthline, Serious Eats, and Wirecutter when recommending plant-based milks.",
+        "how_to_fix": "Engage with food editors and reviewers on recommended publications to ensure Oatly variants are featured in roundups comparing creaminess and taste.",
+        "impact": "High",
+        "effort": "High"
+      },
+      {
+        "title": "Address Digestive Comfort and Shelf-Stability Details",
+        "why_it_matters": "Buyers asking about sensitive stomachs and shelf-stable freshness did not see Oatly mentioned in AI answers.",
+        "how_to_fix": "Clearly document the manufacturing process, enzyme treatment, and shelf-life stability on the website to capture digestion and storage queries.",
+        "impact": "Medium",
+        "effort": "Low"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you recommend some good dairy-free milk alternatives that are naturally sweet and don't taste too earthy?",
+        "answer": "Oatly oat drinks offer a uniquely delicious flavor profile that relies on oats' natural sweetness without tasting overly earthy or grassy. Our proprietary production process breaks down oats to deliver a smooth, pleasant taste that serves as a fantastic dairy-free alternative for coffee, tea, and daily sipping."
+      },
+      {
+        "question": "What is the creamiest plant-based milk available right now that actually tastes good in cereal?",
+        "answer": "Oatly oat drinks are crafted to provide an exceptionally rich and creamy texture that mimics dairy milk better than many nut or soy alternatives. It coats your cereal bowl perfectly, offering a luscious mouthfeel and a balanced flavor that enhances rather than overwhelms your favorite breakfast foods."
+      },
+      {
+        "question": "Are there any shelf-stable oat milks that taste just as fresh as the refrigerated ones?",
+        "answer": "Yes, Oatly offers ambient, shelf-stable oat milk cartons that deliver the exact same great taste and nutritional quality as our chilled varieties. Thanks to careful UHT processing and sturdy packaging, you can stock your pantry with fresh-tasting oat drink ready to be chilled whenever you need it."
+      },
+      {
+        "question": "My stomach usually hurts from dairy, but some plant milks upset my digestion too—what is the easiest oat milk on sensitive stomachs?",
+        "answer": "Oatly products are 100% plant-based, dairy-free, soy-free, and nut-free, making them a gentle option for people avoiding animal lactose. Our simple oat base is designed to be easily digestible, helping you enjoy a creamy beverage without the digestive discomfort commonly associated with dairy or certain other plant milks."
+      },
+      {
+        "question": "Where can I buy Oatly products and what varieties are available?",
+        "answer": "Oatly offers a wide range of oat-based products including original oat drinks, chilled varieties, cooking creams, oatgurts, ice cream, and cold foam. You can find Oatly at major grocery stores, coffee shops, and online retailers worldwide. Check our store locator on our official website to find the closest stockist near you."
+      }
+    ],
+    "organization_description": "Oatly is the original oat drink company providing a wide range of sustainable, plant-based oat products including beverages, cooking creams, yogurts, and ice cream.",
+    "llms_txt": "# Oatly\n\n> Oatly is the original oat drink company dedicated to turning oats into personal and planetary nutritional products that make it easy for people to eat better and live healthier without recklessly taxing the planet's resources.\n\n## Key pages\n- [Homepage](https://www.oatly.com/)\n- [Products](https://www.oatly.com/)\n- [Sustainability](https://www.oatly.com/)\n- [FAQ](https://www.oatly.com/)"
+  },
+  "json_ld": [
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Oatly\",\n  \"url\": \"https://www.oatly.com/\",\n  \"description\": \"Oatly is the original oat drink company providing a wide range of sustainable, plant-based oat products including beverages, cooking creams, yogurts, and ice cream.\",\n  \"logo\": \"[add the full address of your logo image]\",\n  \"sameAs\": [\n    \"[add your LinkedIn page]\",\n    \"[add your other official social profiles]\"\n  ]\n}\n</script>",
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can you recommend some good dairy-free milk alternatives that are naturally sweet and don't taste too earthy?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Oatly oat drinks offer a uniquely delicious flavor profile that relies on oats' natural sweetness without tasting overly earthy or grassy. Our proprietary production process breaks down oats to deliver a smooth, pleasant taste that serves as a fantastic dairy-free alternative for coffee, tea, and daily sipping.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What is the creamiest plant-based milk available right now that actually tastes good in cereal?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Oatly oat drinks are crafted to provide an exceptionally rich and creamy texture that mimics dairy milk better than many nut or soy alternatives. It coats your cereal bowl perfectly, offering a luscious mouthfeel and a balanced flavor that enhances rather than overwhelms your favorite breakfast foods.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Are there any shelf-stable oat milks that taste just as fresh as the refrigerated ones?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, Oatly offers ambient, shelf-stable oat milk cartons that deliver the exact same great taste and nutritional quality as our chilled varieties. Thanks to careful UHT processing and sturdy packaging, you can stock your pantry with fresh-tasting oat drink ready to be chilled whenever you need it.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"My stomach usually hurts from dairy, but some plant milks upset my digestion too—what is the easiest oat milk on sensitive stomachs?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Oatly products are 100% plant-based, dairy-free, soy-free, and nut-free, making them a gentle option for people avoiding animal lactose. Our simple oat base is designed to be easily digestible, helping you enjoy a creamy beverage without the digestive discomfort commonly associated with dairy or certain other plant milks.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Where can I buy Oatly products and what varieties are available?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Oatly offers a wide range of oat-based products including original oat drinks, chilled varieties, cooking creams, oatgurts, ice cream, and cold foam. You can find Oatly at major grocery stores, coffee shops, and online retailers worldwide. Check our store locator on our official website to find the closest stockist near you.\"\n      }\n    }\n  ]\n}\n</script>"
+  ],
+  "robots_snippet": ""
+}
