@@ -2,7 +2,7 @@
 
 **When someone asks an AI assistant "what's the best…?", does your brand come up?** This agent finds out. It asks an AI the questions your buyers ask, measures your share of voice against competitors, checks whether your website is easy for AI to read, and hands you the fixes, ready to paste.
 
-### ▶ Live demo: coming soon on Streamlit Community Cloud
+### ▶ [Try the live app](https://ai-visibility-agent-becca.streamlit.app)
 
 ---
 
